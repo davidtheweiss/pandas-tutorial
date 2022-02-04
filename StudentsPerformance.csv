@@ -1,0 +1,1001 @@
+student_id,gender,race/ethnicity,parental level of education,LUNCH,test preparation course,math score,reading score,writing score,telephone,college_id
+10000000,female,african american,bachelor's degree,standard,none,72,72,74,4314721753,10002
+10000001,female,asian american,some college,standard,completed,69,90,88,8357827673,10006
+10000002,female,african american,master's degree,standard,none,90,95,93,9610170049,10007
+10000003,male,white american,associate's degree,free/reduced,none,47,57,44,(558) 797-0612,10004
+10000004,male,asian american,some college,standard,none,76,78,75,3655400803,10001
+10000005,female,african american,associate's degree,standard,none,71,83,78,6557674966,10006
+10000006,female,african american,some college,standard,completed,88,95,92,8127719308,10000
+10000007,male,african american,some college,free/reduced,none,40,43,39,1786822075,10000
+10000008,male,multiracial,high school,free/reduced,completed,64,64,67,+17577686091,10005
+10000009,female,african american,high school,free/reduced,none,38,60,50,2620274865,10000
+10000010,male,asian american,associate's degree,standard,none,58,54,52,2453470313,10003
+10000011,male,multiracial,associate's degree,standard,none,40,52,43,3727949215,10005
+10000012,female,african american,high school,standard,none,65,81,73,7983770482,10005
+10000013,male,white american,some college,standard,completed,78,72,70,6385536379,10004
+10000014,female,white american,master's degree,standard,none,50,53,58,9503786746,10003
+10000015,female,asian american,some high school,standard,none,69,75,78,9762648918,10000
+10000016,male,asian american,high school,standard,none,88,89,86,9905952666,10007
+10000017,female,african american,some high school,free/reduced,none,18,32,28,9137401636,10005
+10000018,male,asian american,master's degree,free/reduced,completed,46,42,46,4921055289,10001
+10000019,female,asian american,associate's degree,free/reduced,none,54,58,61,9667785513,10005
+10000020,male,multiracial,high school,standard,none,66,69,63,(658)1568498,10004
+10000021,female,african american,some college,free/reduced,completed,65,75,70,6611683474,10005
+10000022,male,multiracial,some college,standard,none,44,54,53,8789850603,10005
+10000023,female,asian american,some high school,standard,none,69,73,73,9904573595,10004
+10000024,male,multiracial,bachelor's degree,free/reduced,completed,74,71,80,6602243296,10002
+10000025,male,white american,master's degree,free/reduced,none,73,74,72,8662127580,10007
+10000026,male,african american,some college,standard,none,69,54,55,4808549665,10000
+10000027,female,asian american,bachelor's degree,standard,none,67,69,75,9581711008,10005
+10000028,male,asian american,high school,standard,none,70,70,65,9464331801,10006
+10000029,female,multiracial,master's degree,standard,none,62,70,75,2119601711,10007
+10000030,female,multiracial,some college,standard,none,69,74,74,478-833-3175,10002
+10000031,female,african american,some college,standard,none,63,65,61,8917708468,10003
+10000032,female,native american,master's degree,free/reduced,none,56,72,65,2283072652,10000
+10000033,male,multiracial,some college,standard,none,40,42,38,8849089254,10006
+10000034,male,native american,some college,standard,none,97,87,82,8235898431,10006
+10000035,male,native american,associate's degree,standard,completed,81,81,79,7823959393,10000
+10000036,female,multiracial,associate's degree,standard,none,74,81,83,4903738417,10006
+10000037,female,multiracial,some high school,free/reduced,none,50,64,59,7694815401,10006
+10000038,female,multiracial,associate's degree,free/reduced,completed,75,90,88,9874532034,10003
+10000039,male,african american,associate's degree,free/reduced,none,57,56,57,5012870214,10006
+10000040,male,asian american,associate's degree,free/reduced,none,55,61,54,1653589695,10007
+10000041,female,asian american,associate's degree,standard,none,58,73,68,9975494584,10000
+10000042,female,african american,associate's degree,standard,none,53,58,65,8468401620,10002
+10000043,male,african american,some college,free/reduced,completed,59,65,66,3465833694,10007
+10000044,female,native american,associate's degree,free/reduced,none,50,56,54,6738912204,10002
+10000045,male,african american,associate's degree,standard,none,65,54,57,3766140824,10000
+10000046,female,white american,associate's degree,standard,completed,55,65,62,5458109986,10002
+10000047,female,asian american,high school,standard,none,66,71,76,4067462238,10003
+10000048,female,multiracial,associate's degree,free/reduced,completed,57,74,76,1100818825,10000
+10000049,male,asian american,high school,standard,completed,82,84,82,6906826798,10006
+10000050,male,native american,some college,standard,none,53,55,48,5965514062,10002
+10000051,male,native american,associate's degree,free/reduced,completed,77,69,68,6187890079,10004
+10000052,male,asian american,some college,standard,none,53,44,42,1998627824,10006
+10000053,male,multiracial,high school,standard,none,88,78,75,9063699195,10005
+10000054,female,asian american,some high school,free/reduced,completed,71,84,87,3932094486,10000
+10000055,female,asian american,high school,free/reduced,none,33,41,43,5525808786,10005
+10000056,female,native american,associate's degree,standard,completed,82,85,86,4289559799,10000
+10000057,male,multiracial,associate's degree,standard,none,52,55,49,5216597798,10002
+10000058,male,multiracial,some college,standard,completed,58,59,58,3236309692,10001
+10000059,female,asian american,some high school,free/reduced,none,0,17,10,5003701152,10001
+10000060,male,native american,bachelor's degree,free/reduced,completed,79,74,72,4005442361,10005
+10000061,male,white american,some high school,free/reduced,none,39,39,34,3719727071,10003
+10000062,male,white american,associate's degree,free/reduced,none,62,61,55,9831056355,10001
+10000063,female,asian american,associate's degree,standard,none,69,80,71,3448406544,10004
+10000064,female,multiracial,some high school,standard,none,59,58,59,9307290521,10004
+10000065,male,african american,some high school,standard,none,67,64,61,7543147394,10001
+10000066,male,multiracial,some high school,free/reduced,none,45,37,37,2671885511,10003
+10000067,female,asian american,some college,standard,none,60,72,74,8156570380,10001
+10000068,male,african american,associate's degree,free/reduced,none,61,58,56,6992233016,10005
+10000069,female,asian american,associate's degree,standard,none,39,64,57,8201217090,10003
+10000070,female,multiracial,some college,free/reduced,completed,58,63,73,8383850398,10001
+10000071,male,multiracial,some college,standard,completed,63,55,63,9051309844,10006
+10000072,female,white american,associate's degree,free/reduced,none,41,51,48,4851329067,10004
+10000073,male,asian american,some high school,free/reduced,none,61,57,56,6032969056,10005
+10000074,male,asian american,some high school,standard,none,49,49,41,9770245157,10002
+10000075,male,african american,associate's degree,free/reduced,none,44,41,38,4739186283,10006
+10000076,male,native american,some high school,standard,none,30,26,22,6135698078,10006
+10000077,male,white american,bachelor's degree,standard,completed,80,78,81,7063311117,10000
+10000078,female,multiracial,some high school,standard,completed,61,74,72,7057424195,10004
+10000079,female,native american,master's degree,standard,none,62,68,68,3962257082,10006
+10000080,female,african american,associate's degree,standard,none,47,49,50,7997375049,10002
+10000081,male,african american,high school,free/reduced,none,49,45,45,8599105368,10002
+10000082,male,white american,some college,free/reduced,completed,50,47,54,8967798082,10001
+10000083,male,native american,associate's degree,standard,none,72,64,63,9156710131,10005
+10000084,male,multiracial,high school,free/reduced,none,42,39,34,8949649513,10004
+10000085,female,asian american,some college,standard,none,73,80,82,5668045897,10003
+10000086,female,asian american,some college,free/reduced,none,76,83,88,9931488921,10004
+10000087,female,multiracial,associate's degree,standard,none,71,71,74,8492533913,10005
+10000088,female,white american,some college,standard,none,58,70,67,5472844912,10007
+10000089,female,multiracial,some high school,standard,none,73,86,82,8569104371,10004
+10000090,female,asian american,bachelor's degree,standard,none,65,72,74,4132497987,10004
+10000091,male,asian american,high school,free/reduced,none,27,34,36,9849693050,10004
+10000092,male,asian american,high school,standard,none,71,79,71,2293751061,10000
+10000093,male,asian american,associate's degree,free/reduced,completed,43,45,50,1102585246,10007
+10000094,female,african american,some college,standard,none,79,86,92,2557684248,10005
+10000095,male,asian american,associate's degree,free/reduced,completed,78,81,82,3946066684,10001
+10000096,male,african american,some high school,standard,completed,65,66,62,7281923365,10004
+10000097,female,native american,some college,standard,completed,63,72,70,2132588641,10000
+10000098,female,multiracial,some college,free/reduced,none,58,67,62,6470417786,10002
+10000099,female,multiracial,bachelor's degree,standard,none,65,67,62,9278863634,10003
+10000100,male,african american,some college,standard,none,79,67,67,5018449518,10006
+10000101,male,multiracial,bachelor's degree,standard,completed,68,74,74,4986064883,10007
+10000102,female,multiracial,associate's degree,standard,none,85,91,89,5473889177,10006
+10000103,male,african american,high school,standard,completed,60,44,47,9968365586,10006
+10000104,male,asian american,some college,standard,completed,98,86,90,6854871959,10005
+10000105,female,asian american,some college,standard,none,58,67,72,6410153253,10001
+10000106,female,multiracial,master's degree,standard,none,87,100,100,9827721274,10006
+10000107,male,native american,associate's degree,standard,completed,66,63,64,6022542653,10006
+10000108,female,african american,associate's degree,free/reduced,none,52,76,70,1832715809,10006
+10000109,female,african american,some high school,standard,none,70,64,72,8513200458,10000
+10000110,female,multiracial,associate's degree,free/reduced,completed,77,89,98,6001031123,10001
+10000111,male,asian american,high school,standard,none,62,55,49,7068231107,10007
+10000112,male,white american,associate's degree,standard,none,54,53,47,1004534538,10001
+10000113,female,multiracial,some college,standard,none,51,58,54,9303881251,10000
+10000114,female,native american,bachelor's degree,standard,completed,99,100,100,5053698710,10006
+10000115,male,asian american,high school,standard,none,84,77,74,2805239391,10004
+10000116,female,african american,bachelor's degree,free/reduced,none,75,85,82,4903740574,10006
+10000117,female,multiracial,bachelor's degree,standard,none,78,82,79,5389934071,10007
+10000118,female,multiracial,some high school,standard,none,51,63,61,1292196827,10006
+10000119,female,asian american,some college,standard,none,55,69,65,6396116406,10004
+10000120,female,asian american,bachelor's degree,standard,completed,79,92,89,4990444213,10001
+10000121,male,african american,associate's degree,standard,completed,91,89,92,5725971452,10006
+10000122,female,asian american,some college,standard,completed,88,93,93,4292564037,10000
+10000123,male,multiracial,high school,free/reduced,none,63,57,56,7977020041,10003
+10000124,male,native american,some college,standard,none,83,80,73,8451688635,10000
+10000125,female,african american,high school,standard,none,87,95,86,3567228545,10003
+10000126,male,african american,some high school,standard,none,72,68,67,6094473215,10002
+10000127,male,multiracial,some college,standard,completed,65,77,74,1070806342,10001
+10000128,male,multiracial,master's degree,standard,none,82,82,74,3632521565,10006
+10000129,female,white american,bachelor's degree,standard,none,51,49,51,2237258774,10006
+10000130,male,multiracial,master's degree,standard,none,89,84,82,4322252581,10007
+10000131,male,asian american,some high school,free/reduced,completed,53,37,40,4398640955,10003
+10000132,male,native american,some college,free/reduced,completed,87,74,70,1798345680,10005
+10000133,female,asian american,some college,standard,completed,75,81,84,4708355341,10007
+10000134,male,multiracial,bachelor's degree,free/reduced,completed,74,79,75,4526335852,10004
+10000135,male,asian american,bachelor's degree,standard,none,58,55,48,9596435887,10000
+10000136,male,african american,some high school,standard,completed,51,54,41,2678212712,10005
+10000137,male,native american,high school,standard,none,70,55,56,5016466960,10005
+10000138,female,asian american,associate's degree,standard,none,59,66,67,8713553950,10004
+10000139,male,multiracial,some college,standard,completed,71,61,69,3211967398,10003
+10000140,female,multiracial,some high school,standard,none,76,72,71,8468788083,10005
+10000141,female,asian american,some college,free/reduced,none,59,62,64,7577300851,10002
+10000142,female,native american,some college,free/reduced,completed,42,55,54,5637519935,10000
+10000143,male,white american,high school,standard,none,57,43,47,5184115121,10004
+10000144,male,multiracial,some college,standard,none,88,73,78,8585297268,10004
+10000145,female,asian american,some college,free/reduced,none,22,39,33,4109187537,10003
+10000146,male,african american,some high school,standard,none,88,84,75,7965147252,10007
+10000147,male,asian american,associate's degree,free/reduced,none,73,68,66,4767161029,10001
+10000148,female,multiracial,bachelor's degree,standard,completed,68,75,81,7282433989,10004
+10000149,male,native american,associate's degree,free/reduced,completed,100,100,93,3459492867,10000
+10000150,male,white american,some high school,standard,completed,62,67,69,2005372928,10005
+10000151,male,white american,bachelor's degree,standard,none,77,67,68,9699739094,10007
+10000152,female,african american,associate's degree,standard,completed,59,70,66,3711573242,10001
+10000153,male,multiracial,bachelor's degree,standard,none,54,49,47,1423215073,10000
+10000154,male,multiracial,some high school,standard,none,62,67,61,2526344784,10007
+10000155,female,asian american,some college,standard,completed,70,89,88,3759175141,10002
+10000156,female,native american,high school,free/reduced,completed,66,74,78,2048791685,10006
+10000157,male,african american,some college,free/reduced,none,60,60,60,2254477191,10005
+10000158,female,african american,associate's degree,standard,completed,61,86,87,2861719669,10004
+10000159,male,multiracial,associate's degree,free/reduced,none,66,62,64,9652481098,10001
+10000160,male,african american,associate's degree,free/reduced,completed,82,78,74,2239003661,10005
+10000161,female,native american,some college,free/reduced,completed,75,88,85,9514221581,10006
+10000162,male,african american,master's degree,free/reduced,none,49,53,52,8083092505,10003
+10000163,male,asian american,high school,standard,none,52,53,49,3329418506,10002
+10000164,female,native american,master's degree,standard,none,81,92,91,5144294027,10007
+10000165,female,asian american,bachelor's degree,standard,completed,96,100,100,5404941729,10005
+10000166,male,asian american,high school,free/reduced,completed,53,51,51,9378833327,10003
+10000167,female,african american,master's degree,free/reduced,completed,58,76,78,2219781933,10001
+10000168,female,african american,high school,standard,completed,68,83,78,6168843132,10006
+10000169,female,asian american,some college,free/reduced,completed,67,75,70,6687146506,10002
+10000170,male,white american,high school,standard,completed,72,73,74,8688159506,10004
+10000171,male,native american,some high school,standard,none,94,88,78,1594668379,10007
+10000172,female,multiracial,some college,standard,none,79,86,81,1910665750,10002
+10000173,female,asian american,associate's degree,standard,none,63,67,70,9496107595,10002
+10000174,female,asian american,bachelor's degree,free/reduced,completed,43,51,54,3218112604,10001
+10000175,female,asian american,master's degree,standard,completed,81,91,87,3142804705,10007
+10000176,female,african american,high school,free/reduced,completed,46,54,58,8475056279,10005
+10000177,female,asian american,associate's degree,standard,completed,71,77,77,2498216126,10006
+10000178,female,african american,master's degree,free/reduced,completed,52,70,62,6447971018,10001
+10000179,female,multiracial,some high school,standard,completed,97,100,100,1557601977,10006
+10000180,male,asian american,master's degree,free/reduced,completed,62,68,75,6652779288,10000
+10000181,female,asian american,some college,free/reduced,none,46,64,66,8144770089,10000
+10000182,female,native american,high school,standard,none,50,50,47,4492621272,10005
+10000183,female,multiracial,associate's degree,standard,none,65,69,70,6220191072,10000
+10000184,male,asian american,some high school,free/reduced,completed,45,52,49,9323429982,10002
+10000185,male,asian american,associate's degree,free/reduced,completed,65,67,65,9818369317,10000
+10000186,male,native american,high school,standard,none,80,76,65,5942989311,10003
+10000187,male,multiracial,some high school,standard,completed,62,66,68,1554944578,10007
+10000188,male,african american,some high school,free/reduced,none,48,52,45,9938278872,10003
+10000189,female,asian american,bachelor's degree,standard,none,77,88,87,6165482479,10006
+10000190,female,native american,associate's degree,standard,none,66,65,69,2779464789,10001
+10000191,male,multiracial,some college,standard,completed,76,83,79,7821782079,10004
+10000192,female,african american,some high school,standard,none,62,64,66,4974403118,10000
+10000193,male,multiracial,some college,standard,completed,77,62,62,3582172655,10002
+10000194,female,asian american,master's degree,standard,completed,69,84,85,3997630774,10006
+10000195,male,multiracial,associate's degree,standard,none,61,55,52,6336769412,10001
+10000196,male,asian american,some high school,free/reduced,completed,59,69,65,1344679901,10006
+10000197,male,native american,high school,free/reduced,none,55,56,51,2342167543,10001
+10000198,female,african american,some college,free/reduced,none,45,53,55,7424476627,10006
+10000199,female,african american,bachelor's degree,free/reduced,none,78,79,76,6435866502,10000
+10000200,female,asian american,associate's degree,standard,completed,67,84,86,6757640512,10000
+10000201,female,multiracial,some college,free/reduced,none,65,81,77,3355981434,10003
+10000202,male,asian american,associate's degree,standard,none,69,77,69,8000612993,10002
+10000203,female,african american,associate's degree,standard,none,57,69,68,6095977723,10004
+10000204,male,asian american,some college,standard,none,59,41,42,3331132138,10000
+10000205,male,multiracial,some high school,standard,completed,74,71,78,5843731196,10005
+10000206,male,native american,bachelor's degree,standard,none,82,62,62,8781607628,10002
+10000207,male,native american,high school,standard,completed,81,80,76,7153556390,10007
+10000208,female,african american,some college,free/reduced,none,74,81,76,4117001779,10006
+10000209,female,african american,some college,free/reduced,none,58,61,66,6372694552,10007
+10000210,male,multiracial,some high school,free/reduced,completed,80,79,79,7862521600,10000
+10000211,male,asian american,some college,free/reduced,none,35,28,27,3181636490,10004
+10000212,female,asian american,high school,free/reduced,none,42,62,60,9502420440,10006
+10000213,male,asian american,associate's degree,free/reduced,completed,60,51,56,5216541454,10002
+10000214,male,native american,high school,standard,completed,87,91,81,7679693153,10001
+10000215,male,african american,some high school,standard,completed,84,83,75,5722605726,10002
+10000216,female,native american,associate's degree,free/reduced,completed,83,86,88,9925203757,10005
+10000217,female,asian american,high school,free/reduced,none,34,42,39,7493750462,10000
+10000218,male,african american,high school,free/reduced,none,66,77,70,7476179544,10006
+10000219,male,african american,some high school,standard,completed,61,56,56,7249800620,10005
+10000220,female,multiracial,high school,standard,completed,56,68,74,9748483115,10005
+10000221,male,african american,associate's degree,standard,none,87,85,73,1060880383,10006
+10000222,female,asian american,some high school,free/reduced,none,55,65,62,5531434508,10006
+10000223,male,multiracial,some high school,standard,none,86,80,75,1270820743,10001
+10000224,female,african american,associate's degree,standard,completed,52,66,73,5913049336,10004
+10000225,female,native american,master's degree,free/reduced,none,45,56,54,8361388836,10006
+10000226,female,asian american,some college,standard,none,72,72,71,9534789499,10003
+10000227,male,multiracial,high school,standard,none,57,50,54,5151526410,10003
+10000228,male,white american,some high school,free/reduced,none,68,72,64,2215392525,10001
+10000229,female,asian american,some college,standard,completed,88,95,94,5082349471,10002
+10000230,male,multiracial,some college,standard,none,76,64,66,6843982920,10002
+10000231,male,asian american,associate's degree,standard,none,46,43,42,6824822564,10004
+10000232,female,african american,bachelor's degree,standard,none,67,86,83,4786400636,10000
+10000233,male,native american,some high school,standard,none,92,87,78,8796308192,10001
+10000234,male,asian american,bachelor's degree,standard,completed,83,82,84,8200347020,10002
+10000235,male,multiracial,associate's degree,standard,none,80,75,77,2116820268,10002
+10000236,male,multiracial,bachelor's degree,free/reduced,none,63,66,67,8585194502,10000
+10000237,female,multiracial,some high school,standard,completed,64,60,74,4571480040,10005
+10000238,male,african american,some college,standard,none,54,52,51,2896094951,10002
+10000239,male,asian american,associate's degree,standard,none,84,80,80,4000754649,10001
+10000240,male,multiracial,high school,free/reduced,completed,73,68,66,9310874970,10005
+10000241,female,native american,bachelor's degree,standard,none,80,83,83,1288564791,10001
+10000242,female,multiracial,high school,standard,none,56,52,55,5441973893,10007
+10000243,male,native american,some college,standard,none,59,51,43,1570926034,10000
+10000244,male,multiracial,some high school,standard,none,75,74,69,3302012656,10006
+10000245,male,asian american,associate's degree,standard,none,85,76,71,3734469221,10003
+10000246,male,native american,associate's degree,standard,none,89,76,74,2740179284,10001
+10000247,female,african american,high school,standard,completed,58,70,68,4472006155,10006
+10000248,female,african american,high school,standard,none,65,64,62,6243963540,10004
+10000249,male,asian american,high school,standard,none,68,60,53,1476020225,10004
+10000250,male,white american,some high school,standard,completed,47,49,49,9592022838,10003
+10000251,female,multiracial,some college,free/reduced,none,71,83,83,3645204752,10005
+10000252,female,african american,some high school,standard,completed,60,70,70,8552505433,10004
+10000253,male,multiracial,master's degree,standard,none,80,80,72,6114397832,10006
+10000254,male,multiracial,high school,standard,none,54,52,52,7185056056,10002
+10000255,female,native american,some college,standard,none,62,73,70,6859980011,10003
+10000256,female,asian american,associate's degree,free/reduced,none,64,73,68,2658211919,10006
+10000257,male,asian american,associate's degree,standard,completed,78,77,77,7454416322,10004
+10000258,female,african american,some college,standard,none,70,75,78,1024507136,10007
+10000259,female,asian american,master's degree,free/reduced,completed,65,81,81,7800924708,10000
+10000260,female,asian american,some high school,free/reduced,completed,64,79,77,3835418048,10003
+10000261,male,asian american,some college,standard,completed,79,79,78,6127886365,10001
+10000262,female,asian american,some high school,free/reduced,none,44,50,51,9611592142,10003
+10000263,female,native american,high school,standard,none,99,93,90,4494658223,10004
+10000264,male,multiracial,high school,standard,none,76,73,68,6355615164,10001
+10000265,male,multiracial,some high school,free/reduced,none,59,42,41,6295432254,10003
+10000266,female,asian american,bachelor's degree,standard,none,63,75,81,1041162794,10003
+10000267,female,multiracial,high school,standard,none,69,72,77,2668194108,10006
+10000268,female,multiracial,associate's degree,standard,completed,88,92,95,9908609424,10001
+10000269,female,native american,some college,free/reduced,none,71,76,70,8975063502,10004
+10000270,male,asian american,bachelor's degree,standard,none,69,63,61,4157677713,10002
+10000271,male,asian american,some college,standard,none,58,49,42,4547707854,10004
+10000272,female,multiracial,associate's degree,free/reduced,none,47,53,58,7537288710,10006
+10000273,female,multiracial,some college,standard,none,65,70,71,9786750015,10007
+10000274,male,african american,some college,standard,completed,88,85,76,6069306046,10001
+10000275,male,asian american,bachelor's degree,standard,none,83,78,73,5493180375,10006
+10000276,female,asian american,some high school,standard,completed,85,92,93,1022347668,10003
+10000277,female,native american,high school,standard,completed,59,63,75,6302159410,10006
+10000278,female,asian american,some high school,free/reduced,none,65,86,80,4131769852,10006
+10000279,male,african american,bachelor's degree,free/reduced,none,73,56,57,9813705727,10005
+10000280,male,multiracial,high school,standard,none,53,52,42,1435297468,10000
+10000281,male,multiracial,high school,standard,none,45,48,46,8310430020,10006
+10000282,female,multiracial,bachelor's degree,free/reduced,none,73,79,84,9940408206,10002
+10000283,female,multiracial,some college,free/reduced,completed,70,78,78,3219201794,10000
+10000284,female,african american,some high school,standard,none,37,46,46,8642394899,10004
+10000285,male,african american,associate's degree,standard,completed,81,82,82,7341103769,10001
+10000286,male,native american,associate's degree,standard,completed,97,82,88,6849388183,10007
+10000287,female,african american,some high school,standard,none,67,89,82,8483335880,10000
+10000288,male,african american,bachelor's degree,free/reduced,none,88,75,76,2077925879,10003
+10000289,male,native american,some high school,standard,completed,77,76,77,6695210864,10001
+10000290,male,asian american,associate's degree,standard,none,76,70,68,9973792418,10005
+10000291,male,multiracial,some high school,standard,none,86,73,70,9789213815,10003
+10000292,male,asian american,some high school,standard,completed,63,60,57,2897018852,10006
+10000293,female,native american,bachelor's degree,standard,none,65,73,75,2512321278,10001
+10000294,male,multiracial,high school,free/reduced,completed,78,77,80,7735099011,10004
+10000295,male,african american,associate's degree,free/reduced,none,67,62,60,8227380289,10001
+10000296,male,white american,some high school,standard,completed,46,41,43,5943306723,10006
+10000297,male,native american,associate's degree,standard,completed,71,74,68,5784869586,10007
+10000298,male,asian american,high school,free/reduced,completed,40,46,50,7831115768,10003
+10000299,male,multiracial,associate's degree,free/reduced,none,90,87,75,2674608281,10000
+10000300,male,white american,some college,free/reduced,completed,81,78,81,2650264255,10003
+10000301,male,multiracial,some high school,free/reduced,none,56,54,52,6034793871,10007
+10000302,female,asian american,associate's degree,standard,completed,67,84,81,1796646345,10001
+10000303,male,african american,associate's degree,standard,none,80,76,64,9710268912,10002
+10000304,female,asian american,associate's degree,standard,completed,74,75,83,4879744014,10006
+10000305,male,white american,some college,standard,none,69,67,69,5630760436,10003
+10000306,male,native american,some college,standard,completed,99,87,81,1420330827,10000
+10000307,male,asian american,some high school,standard,none,51,52,44,4139950450,10000
+10000308,female,african american,associate's degree,free/reduced,none,53,71,67,7849744353,10001
+10000309,female,multiracial,high school,free/reduced,none,49,57,52,6727129136,10000
+10000310,female,african american,associate's degree,standard,none,73,76,80,8010093567,10005
+10000311,male,african american,bachelor's degree,standard,none,66,60,57,5128836616,10006
+10000312,male,multiracial,bachelor's degree,standard,completed,67,61,68,1335966103,10002
+10000313,female,asian american,associate's degree,free/reduced,completed,68,67,69,4472035996,10002
+10000314,female,asian american,bachelor's degree,standard,completed,59,64,75,9612841098,10007
+10000315,male,asian american,high school,standard,none,71,66,65,2145416903,10001
+10000316,female,multiracial,master's degree,standard,completed,77,82,91,2801973785,10001
+10000317,male,asian american,associate's degree,standard,none,83,72,78,3622229921,10004
+10000318,male,african american,bachelor's degree,standard,none,63,71,69,4514592504,10005
+10000319,female,multiracial,associate's degree,free/reduced,none,56,65,63,2633578293,10005
+10000320,female,asian american,high school,free/reduced,completed,67,79,84,7897425295,10000
+10000321,female,native american,high school,standard,none,75,86,79,5834740368,10006
+10000322,female,asian american,some college,standard,none,71,81,80,5863524685,10001
+10000323,female,asian american,some high school,free/reduced,none,43,53,53,3228089543,10001
+10000324,female,asian american,high school,free/reduced,none,41,46,43,1013381255,10005
+10000325,female,asian american,some college,standard,none,82,90,94,9774418006,10000
+10000326,male,asian american,some college,standard,none,61,61,62,5061136945,10007
+10000327,male,white american,some college,free/reduced,none,28,23,19,2708006527,10007
+10000328,male,asian american,associate's degree,standard,completed,82,75,77,5997649897,10005
+10000329,female,african american,some high school,standard,none,41,55,51,7017141814,10000
+10000330,male,asian american,high school,standard,none,71,60,61,4899629626,10001
+10000331,male,asian american,associate's degree,standard,none,47,37,35,6212010975,10001
+10000332,male,native american,associate's degree,standard,completed,62,56,53,1810245712,10003
+10000333,male,african american,associate's degree,standard,none,90,78,81,5521068470,10000
+10000334,female,asian american,bachelor's degree,standard,none,83,93,95,2267604448,10000
+10000335,female,african american,some college,free/reduced,none,61,68,66,9537851195,10004
+10000336,male,multiracial,some high school,standard,completed,76,70,69,2757532035,10001
+10000337,male,asian american,associate's degree,standard,none,49,51,43,2989204481,10000
+10000338,female,african american,some high school,free/reduced,none,24,38,27,6999681319,10007
+10000339,female,multiracial,some high school,free/reduced,completed,35,55,60,4168419152,10000
+10000340,male,asian american,high school,free/reduced,none,58,61,52,1850733709,10006
+10000341,female,asian american,high school,standard,none,61,73,63,8767702096,10007
+10000342,female,african american,high school,standard,completed,69,76,74,2039664674,10001
+10000343,male,multiracial,associate's degree,standard,completed,67,72,67,1284760779,10007
+10000344,male,multiracial,some college,standard,none,79,73,67,2906374823,10003
+10000345,female,asian american,high school,standard,none,72,80,75,3645529763,10002
+10000346,male,african american,some college,standard,none,62,61,57,6082371425,10005
+10000347,female,asian american,bachelor's degree,standard,completed,77,94,95,7915805099,10007
+10000348,male,multiracial,high school,free/reduced,none,75,74,66,9374824583,10004
+10000349,male,native american,associate's degree,standard,none,87,74,76,8627180812,10007
+10000350,female,african american,bachelor's degree,standard,none,52,65,69,8686926717,10004
+10000351,male,native american,some college,standard,none,66,57,52,8870238194,10003
+10000352,female,asian american,some college,standard,completed,63,78,80,5082059910,10006
+10000353,female,asian american,associate's degree,standard,none,46,58,57,5289284249,10004
+10000354,female,asian american,some college,standard,none,59,71,70,5086323591,10003
+10000355,female,african american,bachelor's degree,standard,none,61,72,70,9717937835,10001
+10000356,male,white american,associate's degree,standard,none,63,61,61,9732716594,10000
+10000357,female,asian american,some college,free/reduced,completed,42,66,69,6387911288,10001
+10000358,male,multiracial,some college,free/reduced,none,59,62,61,4140109589,10005
+10000359,female,multiracial,some college,standard,none,80,90,89,9310572982,10006
+10000360,female,african american,high school,standard,none,58,62,59,2603972636,10000
+10000361,male,african american,some high school,standard,completed,85,84,78,3084504167,10002
+10000362,female,asian american,some college,standard,none,52,58,58,9259816139,10001
+10000363,female,multiracial,some high school,free/reduced,none,27,34,32,5515445466,10001
+10000364,male,asian american,some college,standard,none,59,60,58,7018922088,10006
+10000365,male,white american,bachelor's degree,free/reduced,completed,49,58,60,8699462038,10000
+10000366,male,asian american,high school,standard,completed,69,58,53,4016282503,10006
+10000367,male,asian american,bachelor's degree,free/reduced,none,61,66,61,4756998907,10003
+10000368,female,white american,some high school,free/reduced,none,44,64,58,7230758801,10003
+10000369,female,multiracial,some high school,standard,none,73,84,85,1587967524,10007
+10000370,male,native american,some college,standard,none,84,77,71,5750614913,10006
+10000371,female,asian american,some college,free/reduced,completed,45,73,70,9609041170,10006
+10000372,male,multiracial,some high school,standard,none,74,74,72,3567229851,10007
+10000373,female,multiracial,some college,standard,completed,82,97,96,4177056280,10001
+10000374,female,multiracial,bachelor's degree,standard,none,59,70,73,4721328598,10007
+10000375,male,native american,associate's degree,free/reduced,none,46,43,41,6883802271,10002
+10000376,female,multiracial,some high school,standard,none,80,90,82,3772229822,10004
+10000377,female,multiracial,master's degree,free/reduced,completed,85,95,100,4658012832,10006
+10000378,female,white american,some high school,standard,none,71,83,77,9826389961,10005
+10000379,male,white american,bachelor's degree,standard,none,66,64,62,1754631807,10001
+10000380,female,african american,associate's degree,standard,none,80,86,83,3012357291,10005
+10000381,male,asian american,associate's degree,standard,completed,87,100,95,9422045712,10006
+10000382,male,asian american,master's degree,free/reduced,none,79,81,71,2991048802,10007
+10000383,female,native american,some high school,free/reduced,none,38,49,45,1148197865,10003
+10000384,female,white american,some high school,free/reduced,none,38,43,43,9347160444,10001
+10000385,female,native american,some college,standard,none,67,76,75,3437039100,10007
+10000386,female,native american,bachelor's degree,standard,none,64,73,70,9322327131,10007
+10000387,female,asian american,associate's degree,free/reduced,none,57,78,67,1404752425,10005
+10000388,female,multiracial,high school,standard,none,62,64,64,6267617717,10003
+10000389,male,multiracial,master's degree,standard,none,73,70,75,6545708703,10007
+10000390,male,native american,some high school,free/reduced,completed,73,67,59,2289128779,10003
+10000391,female,multiracial,some college,standard,none,77,68,77,7377017785,10001
+10000392,male,native american,some college,standard,none,76,67,67,1781749100,10005
+10000393,male,asian american,associate's degree,standard,completed,57,54,56,2119708016,10001
+10000394,female,asian american,some high school,standard,completed,65,74,77,8951921892,10005
+10000395,male,white american,high school,free/reduced,none,48,45,41,5262781726,10006
+10000396,female,african american,high school,free/reduced,none,50,67,63,5937264259,10006
+10000397,female,asian american,associate's degree,standard,none,85,89,95,1416518283,10000
+10000398,male,african american,some high school,standard,none,74,63,57,8880433092,10004
+10000399,male,multiracial,some high school,standard,none,60,59,54,2463358971,10003
+10000400,female,asian american,some high school,standard,completed,59,54,67,3737548224,10000
+10000401,male,white american,some college,standard,none,53,43,43,8617864323,10001
+10000402,female,white american,some college,free/reduced,none,49,65,55,5700887321,10004
+10000403,female,multiracial,high school,standard,completed,88,99,100,2975532656,10001
+10000404,female,asian american,high school,standard,none,54,59,62,8645067492,10006
+10000405,female,asian american,some high school,standard,none,63,73,68,1358849817,10003
+10000406,male,african american,associate's degree,standard,completed,65,65,63,6916314840,10006
+10000407,female,african american,associate's degree,standard,none,82,80,77,2680626374,10002
+10000408,female,multiracial,high school,free/reduced,completed,52,57,56,7315428997,10004
+10000409,male,multiracial,associate's degree,standard,completed,87,84,85,9270040983,10003
+10000410,female,multiracial,master's degree,standard,completed,70,71,74,3636504775,10004
+10000411,male,native american,some college,standard,completed,84,83,78,6615466666,10002
+10000412,male,multiracial,associate's degree,standard,none,71,66,60,7411198549,10002
+10000413,male,african american,some high school,standard,completed,63,67,67,8642250095,10000
+10000414,female,asian american,bachelor's degree,free/reduced,completed,51,72,79,9514373228,10006
+10000415,male,native american,high school,standard,none,84,73,69,4690629056,10003
+10000416,male,asian american,bachelor's degree,standard,completed,71,74,68,7881873079,10002
+10000417,male,asian american,associate's degree,standard,none,74,73,67,4073795017,10007
+10000418,male,multiracial,some college,standard,none,68,59,62,8446270700,10001
+10000419,male,native american,high school,free/reduced,completed,57,56,54,2385696522,10003
+10000420,female,asian american,associate's degree,free/reduced,completed,82,93,93,7116740076,10006
+10000421,female,multiracial,high school,standard,completed,57,58,64,6793104027,10004
+10000422,female,multiracial,master's degree,free/reduced,completed,47,58,67,1204952375,10000
+10000423,female,white american,some high school,standard,completed,59,85,80,9393198627,10001
+10000424,male,african american,some college,free/reduced,none,41,39,34,2868377823,10004
+10000425,female,asian american,some college,free/reduced,none,62,67,62,5439914925,10002
+10000426,male,asian american,bachelor's degree,standard,none,86,83,86,2869942861,10006
+10000427,male,asian american,some high school,free/reduced,none,69,71,65,1625960971,10001
+10000428,male,white american,some high school,free/reduced,none,65,59,53,3855023042,10000
+10000429,male,asian american,some high school,free/reduced,none,68,63,54,4442205166,10005
+10000430,male,asian american,associate's degree,free/reduced,none,64,66,59,4862473254,10004
+10000431,female,asian american,high school,standard,none,61,72,70,3882294221,10001
+10000432,male,asian american,high school,standard,none,61,56,55,3164136845,10003
+10000433,female,white american,some high school,free/reduced,none,47,59,50,9193547969,10004
+10000434,male,asian american,some high school,standard,none,73,66,66,4877045214,10007
+10000435,male,asian american,some college,free/reduced,completed,50,48,53,8967280952,10005
+10000436,male,multiracial,associate's degree,standard,none,75,68,64,9090213141,10005
+10000437,male,multiracial,associate's degree,free/reduced,none,75,66,73,3688233922,10001
+10000438,male,asian american,high school,standard,none,70,56,51,5690186904,10002
+10000439,male,multiracial,some high school,standard,completed,89,88,82,9859580328,10004
+10000440,female,asian american,some college,standard,completed,67,81,79,6240161233,10003
+10000441,female,multiracial,high school,standard,none,78,81,80,1131034534,10004
+10000442,female,white american,some high school,free/reduced,none,59,73,69,2455744880,10002
+10000443,female,african american,associate's degree,standard,none,73,83,76,7367825165,10004
+10000444,male,white american,some high school,free/reduced,none,79,82,73,7504966254,10003
+10000445,female,asian american,some high school,standard,completed,67,74,77,6481198534,10000
+10000446,male,multiracial,some college,free/reduced,none,69,66,60,8110705379,10007
+10000447,male,asian american,high school,standard,completed,86,81,80,2392395853,10006
+10000448,male,african american,high school,standard,none,47,46,42,3097431083,10006
+10000449,male,african american,associate's degree,standard,none,81,73,72,9406863646,10006
+10000450,female,asian american,some college,free/reduced,completed,64,85,85,3837955734,10001
+10000451,female,native american,some college,standard,none,100,92,97,2410727240,10006
+10000452,female,asian american,associate's degree,free/reduced,none,65,77,74,9682401507,10001
+10000453,male,asian american,some college,free/reduced,none,65,58,49,1203214187,10007
+10000454,female,asian american,associate's degree,free/reduced,none,53,61,62,6458916878,10004
+10000455,male,asian american,bachelor's degree,free/reduced,none,37,56,47,1750920856,10002
+10000456,female,multiracial,bachelor's degree,standard,none,79,89,89,3455233989,10007
+10000457,male,multiracial,associate's degree,free/reduced,none,53,54,48,5314778501,10007
+10000458,female,native american,bachelor's degree,standard,none,100,100,100,5760508274,10002
+10000459,male,african american,high school,standard,completed,72,65,68,2853632543,10007
+10000460,male,asian american,bachelor's degree,free/reduced,none,53,58,55,3753687322,10001
+10000461,male,african american,some college,free/reduced,none,54,54,45,6252309204,10004
+10000462,female,native american,some college,standard,none,71,70,76,8292064150,10001
+10000463,female,asian american,some college,free/reduced,none,77,90,91,1359150607,10003
+10000464,male,white american,bachelor's degree,standard,completed,75,58,62,3188180082,10006
+10000465,female,asian american,some college,standard,none,84,87,91,2984795299,10001
+10000466,female,multiracial,associate's degree,free/reduced,none,26,31,38,7432854876,10003
+10000467,male,white american,high school,free/reduced,completed,72,67,65,2630660786,10006
+10000468,female,white american,high school,free/reduced,completed,77,88,85,3097524235,10003
+10000469,male,asian american,some college,standard,none,91,74,76,6445240268,10002
+10000470,female,asian american,associate's degree,standard,completed,83,85,90,9010323679,10007
+10000471,female,asian american,high school,standard,none,63,69,74,7695874810,10001
+10000472,female,asian american,associate's degree,standard,completed,68,86,84,2343198465,10003
+10000473,female,multiracial,some high school,standard,none,59,67,61,1492163902,10000
+10000474,female,african american,associate's degree,standard,completed,90,90,91,8734206259,10007
+10000475,female,multiracial,bachelor's degree,standard,completed,71,76,83,7216254501,10000
+10000476,male,native american,bachelor's degree,standard,completed,76,62,66,5799188560,10000
+10000477,male,multiracial,associate's degree,standard,none,80,68,72,7984409894,10007
+10000478,female,multiracial,master's degree,standard,none,55,64,70,9445647073,10001
+10000479,male,native american,associate's degree,standard,none,76,71,67,1673836821,10003
+10000480,male,african american,high school,standard,completed,73,71,68,7923442639,10000
+10000481,female,multiracial,associate's degree,free/reduced,none,52,59,56,5425168092,10001
+10000482,male,asian american,some college,free/reduced,none,68,68,61,9391666444,10003
+10000483,male,white american,high school,standard,none,59,52,46,3866769443,10004
+10000484,female,african american,associate's degree,standard,none,49,52,54,7232745350,10002
+10000485,male,asian american,high school,standard,none,70,74,71,1886041356,10000
+10000486,male,multiracial,some college,free/reduced,none,61,47,56,6305756592,10005
+10000487,female,asian american,associate's degree,free/reduced,none,60,75,74,3981990282,10004
+10000488,male,african american,some high school,standard,completed,64,53,57,9408966928,10004
+10000489,male,white american,associate's degree,free/reduced,completed,79,82,82,5674269112,10007
+10000490,female,white american,associate's degree,free/reduced,none,65,85,76,2451843122,10007
+10000491,female,asian american,associate's degree,standard,none,64,64,70,5143782043,10005
+10000492,female,asian american,some college,standard,none,83,83,90,1571899756,10001
+10000493,female,asian american,bachelor's degree,standard,none,81,88,90,5976328866,10000
+10000494,female,african american,high school,standard,none,54,64,68,2649619000,10000
+10000495,male,multiracial,high school,standard,completed,68,64,66,6315092587,10002
+10000496,female,asian american,some college,standard,none,54,48,52,9185518975,10003
+10000497,female,multiracial,some college,free/reduced,completed,59,78,76,3354938327,10001
+10000498,female,african american,some high school,standard,none,66,69,68,1398329190,10005
+10000499,male,native american,some college,standard,none,76,71,72,7899635018,10002
+10000500,female,multiracial,master's degree,standard,none,74,79,82,3624192153,10000
+10000501,female,african american,associate's degree,standard,completed,94,87,92,6217685295,10007
+10000502,male,asian american,some college,free/reduced,none,63,61,54,6825346810,10001
+10000503,female,native american,associate's degree,standard,completed,95,89,92,2807896229,10005
+10000504,female,multiracial,master's degree,free/reduced,none,40,59,54,6360509985,10006
+10000505,female,african american,some high school,standard,none,82,82,80,8558413094,10001
+10000506,male,white american,high school,standard,none,68,70,66,6419492996,10001
+10000507,male,african american,bachelor's degree,free/reduced,none,55,59,54,6146888329,10006
+10000508,male,asian american,master's degree,standard,none,79,78,77,5021766635,10007
+10000509,female,asian american,bachelor's degree,standard,none,86,92,87,5899048988,10002
+10000510,male,multiracial,some college,standard,none,76,71,73,3402158605,10002
+10000511,male,white american,some high school,standard,none,64,50,43,1004777251,10004
+10000512,male,multiracial,some high school,free/reduced,none,62,49,52,8929021282,10004
+10000513,female,african american,some high school,standard,completed,54,61,62,5965859307,10002
+10000514,female,african american,master's degree,free/reduced,completed,77,97,94,5844141188,10003
+10000515,female,asian american,some high school,standard,completed,76,87,85,6877018728,10001
+10000516,female,multiracial,some college,standard,none,74,89,84,1817431807,10001
+10000517,female,native american,some college,standard,completed,66,74,73,4790514649,10006
+10000518,female,multiracial,some high school,standard,completed,66,78,78,5135286639,10004
+10000519,female,african american,high school,free/reduced,completed,67,78,79,8123744541,10007
+10000520,male,multiracial,some college,standard,none,71,49,52,6773578783,10003
+10000521,female,asian american,associate's degree,standard,none,91,86,84,8777111764,10003
+10000522,male,multiracial,bachelor's degree,standard,none,69,58,57,5499319597,10005
+10000523,male,asian american,master's degree,free/reduced,none,54,59,50,2148450259,10002
+10000524,male,asian american,high school,standard,completed,53,52,49,8545245420,10001
+10000525,male,native american,some college,standard,none,68,60,59,9789174592,10006
+10000526,male,asian american,some high school,free/reduced,completed,56,61,60,7885789924,10000
+10000527,female,asian american,high school,free/reduced,none,36,53,43,2821762317,10007
+10000528,female,multiracial,bachelor's degree,free/reduced,none,29,41,47,5407082279,10000
+10000529,female,asian american,associate's degree,standard,none,62,74,70,3820557219,10001
+10000530,female,asian american,associate's degree,standard,completed,68,67,73,9460787702,10003
+10000531,female,asian american,some high school,standard,none,47,54,53,3853210180,10007
+10000532,male,native american,associate's degree,standard,completed,62,61,58,1751560019,10005
+10000533,female,native american,associate's degree,standard,completed,79,88,94,7819610628,10003
+10000534,male,african american,high school,standard,completed,73,69,68,6506712904,10000
+10000535,female,asian american,bachelor's degree,free/reduced,completed,66,83,83,3222218474,10006
+10000536,male,asian american,associate's degree,standard,completed,51,60,58,2077439895,10002
+10000537,female,multiracial,high school,standard,none,51,66,62,8603443762,10001
+10000538,male,native american,bachelor's degree,standard,completed,85,66,71,8385804027,10000
+10000539,male,white american,associate's degree,standard,completed,97,92,86,1782475897,10001
+10000540,male,asian american,high school,standard,completed,75,69,68,3046170456,10000
+10000541,male,multiracial,associate's degree,free/reduced,completed,79,82,80,1310240124,10004
+10000542,female,asian american,associate's degree,standard,none,81,77,79,1538754834,10006
+10000543,female,multiracial,associate's degree,standard,none,82,95,89,2688686731,10007
+10000544,female,multiracial,master's degree,standard,none,64,63,66,5282030624,10006
+10000545,male,native american,some high school,free/reduced,completed,78,83,80,4393837819,10005
+10000546,female,white american,some high school,standard,completed,92,100,97,2785503332,10002
+10000547,male,asian american,high school,standard,completed,72,67,64,8639528135,10007
+10000548,female,asian american,high school,free/reduced,none,62,67,64,3160539007,10001
+10000549,male,asian american,master's degree,standard,none,79,72,69,5540371586,10003
+10000550,male,asian american,some high school,free/reduced,none,79,76,65,3558251898,10004
+10000551,male,african american,bachelor's degree,free/reduced,completed,87,90,88,4601948507,10004
+10000552,female,african american,associate's degree,standard,none,40,48,50,5349368851,10000
+10000553,male,multiracial,some college,free/reduced,none,77,62,64,2755776109,10002
+10000554,male,native american,associate's degree,standard,none,53,45,40,3628635915,10007
+10000555,female,asian american,some college,free/reduced,none,32,39,33,9997958642,10003
+10000556,female,asian american,associate's degree,standard,completed,55,72,79,8147566681,10002
+10000557,male,asian american,master's degree,free/reduced,none,61,67,66,1099586613,10005
+10000558,female,african american,associate's degree,free/reduced,none,53,70,70,4504886962,10004
+10000559,male,multiracial,some high school,standard,none,73,66,62,7348139138,10002
+10000560,female,multiracial,some college,standard,completed,74,75,79,9789844016,10001
+10000561,female,asian american,some college,standard,none,63,74,74,3219423555,10002
+10000562,male,asian american,bachelor's degree,standard,completed,96,90,92,1813686138,10004
+10000563,female,multiracial,some college,free/reduced,completed,63,80,80,8670654778,10006
+10000564,male,african american,bachelor's degree,free/reduced,none,48,51,46,6496764813,10007
+10000565,male,african american,associate's degree,standard,none,48,43,45,5907387428,10004
+10000566,female,native american,bachelor's degree,free/reduced,completed,92,100,100,7653179838,10004
+10000567,female,multiracial,master's degree,free/reduced,completed,61,71,78,1465924723,10001
+10000568,male,african american,high school,free/reduced,none,63,48,47,4021063479,10003
+10000569,male,multiracial,bachelor's degree,free/reduced,none,68,68,67,8205224871,10007
+10000570,male,african american,some college,standard,completed,71,75,70,8214360630,10004
+10000571,male,white american,bachelor's degree,standard,none,91,96,92,4469546586,10007
+10000572,female,asian american,some college,standard,none,53,62,56,4816291466,10006
+10000573,female,asian american,high school,free/reduced,completed,50,66,64,9185612140,10003
+10000574,female,native american,high school,standard,none,74,81,71,7378194324,10001
+10000575,male,white american,associate's degree,free/reduced,completed,40,55,53,2108381556,10000
+10000576,male,white american,some college,standard,completed,61,51,52,2239787736,10003
+10000577,female,african american,high school,standard,none,81,91,89,2685802755,10000
+10000578,female,african american,some college,free/reduced,completed,48,56,58,7573648184,10006
+10000579,female,multiracial,master's degree,standard,none,53,61,68,6259496360,10000
+10000580,female,multiracial,some high school,standard,none,81,97,96,5867917248,10001
+10000581,female,native american,some high school,standard,none,77,79,80,4604499597,10000
+10000582,female,multiracial,bachelor's degree,free/reduced,none,63,73,78,5272368251,10006
+10000583,female,multiracial,associate's degree,standard,completed,73,75,80,5289863153,10005
+10000584,female,multiracial,some college,standard,none,69,77,77,1188766930,10004
+10000585,female,asian american,associate's degree,standard,none,65,76,76,4700974166,10000
+10000586,female,white american,high school,standard,none,55,73,73,4105928841,10002
+10000587,female,asian american,bachelor's degree,free/reduced,none,44,63,62,6929328965,10001
+10000588,female,asian american,some college,standard,none,54,64,65,9543343752,10002
+10000589,female,white american,some high school,standard,none,48,66,65,5759730727,10003
+10000590,male,asian american,some college,free/reduced,none,58,57,54,5580463238,10001
+10000591,male,white american,some high school,standard,none,71,62,50,8588433894,10003
+10000592,male,native american,bachelor's degree,standard,none,68,68,64,9984856312,10004
+10000593,female,native american,high school,standard,none,74,76,73,2143232520,10004
+10000594,female,asian american,bachelor's degree,standard,completed,92,100,99,4080689626,10005
+10000595,female,asian american,bachelor's degree,standard,completed,56,79,72,4911185039,10001
+10000596,male,african american,high school,free/reduced,none,30,24,15,2254063814,10003
+10000597,male,white american,some high school,standard,none,53,54,48,1258838364,10000
+10000598,female,multiracial,high school,standard,none,69,77,73,1593632890,10005
+10000599,female,multiracial,some high school,standard,none,65,82,81,2915686563,10000
+10000600,female,multiracial,master's degree,standard,none,54,60,63,8855953465,10004
+10000601,female,asian american,high school,standard,none,29,29,30,1525477543,10007
+10000602,female,native american,some college,standard,none,76,78,80,3759861472,10000
+10000603,male,multiracial,high school,free/reduced,none,60,57,51,1351796018,10003
+10000604,male,multiracial,master's degree,free/reduced,completed,84,89,90,9869339620,10004
+10000605,male,asian american,some high school,standard,none,75,72,62,6504974057,10001
+10000606,female,asian american,associate's degree,standard,none,85,84,82,3251328578,10006
+10000607,female,asian american,master's degree,free/reduced,none,40,58,54,3315515617,10007
+10000608,female,native american,some college,standard,none,61,64,62,4036040150,10005
+10000609,female,african american,associate's degree,standard,none,58,63,65,7218392067,10003
+10000610,male,multiracial,some college,free/reduced,completed,69,60,63,3885493278,10002
+10000611,female,asian american,some college,standard,none,58,59,66,2163314866,10007
+10000612,male,asian american,bachelor's degree,standard,completed,94,90,91,7048548333,10002
+10000613,female,asian american,associate's degree,standard,none,65,77,74,4628368386,10007
+10000614,female,white american,associate's degree,standard,none,82,93,93,2730114543,10006
+10000615,female,asian american,high school,standard,none,60,68,72,2748861865,10002
+10000616,female,native american,bachelor's degree,standard,none,37,45,38,4653616107,10005
+10000617,male,multiracial,bachelor's degree,standard,none,88,78,83,7399513103,10007
+10000618,male,multiracial,master's degree,standard,none,95,81,84,4837535199,10004
+10000619,male,asian american,associate's degree,free/reduced,completed,65,73,68,8789049549,10003
+10000620,female,asian american,high school,free/reduced,none,35,61,54,6862634861,10006
+10000621,male,african american,bachelor's degree,free/reduced,none,62,63,56,4618225835,10005
+10000622,male,asian american,high school,free/reduced,completed,58,51,52,5570227255,10000
+10000623,male,white american,some college,standard,completed,100,96,86,7406050636,10005
+10000624,female,native american,bachelor's degree,free/reduced,none,61,58,62,6805586155,10002
+10000625,male,multiracial,some college,standard,completed,100,97,99,1607704232,10002
+10000626,male,african american,associate's degree,free/reduced,completed,69,70,63,8527886125,10006
+10000627,male,multiracial,associate's degree,standard,none,61,48,46,1573453387,10005
+10000628,male,multiracial,some college,free/reduced,none,49,57,46,1040277465,10005
+10000629,female,asian american,some high school,standard,completed,44,51,55,9072519670,10007
+10000630,male,multiracial,some college,standard,none,67,64,70,7795034007,10002
+10000631,male,african american,high school,standard,none,79,60,65,5785488866,10003
+10000632,female,african american,bachelor's degree,standard,completed,66,74,81,2014064471,10004
+10000633,female,asian american,high school,standard,none,75,88,85,1668463811,10004
+10000634,male,multiracial,some high school,standard,none,84,84,80,1793457874,10004
+10000635,male,white american,high school,standard,none,71,74,64,4263657119,10006
+10000636,female,african american,high school,free/reduced,completed,67,80,81,2057395092,10002
+10000637,female,multiracial,some high school,standard,completed,80,92,88,7312400950,10002
+10000638,male,native american,some college,standard,none,86,76,74,2518881396,10006
+10000639,female,multiracial,associate's degree,standard,none,76,74,73,1359860339,10002
+10000640,male,multiracial,high school,standard,none,41,52,51,5791416540,10007
+10000641,female,multiracial,associate's degree,free/reduced,completed,74,88,90,5521831725,10007
+10000642,female,african american,some high school,free/reduced,none,72,81,79,7169829530,10003
+10000643,female,native american,high school,standard,completed,74,79,80,5973685072,10005
+10000644,male,african american,high school,standard,none,70,65,60,5498854207,10002
+10000645,female,african american,bachelor's degree,standard,completed,65,81,81,7953436658,10001
+10000646,female,multiracial,associate's degree,standard,none,59,70,65,4044962820,10004
+10000647,female,native american,high school,free/reduced,none,64,62,68,2311390649,10004
+10000648,female,african american,high school,standard,none,50,53,55,7660481059,10003
+10000649,female,multiracial,some college,standard,completed,69,79,81,2527738236,10002
+10000650,male,asian american,some high school,free/reduced,completed,51,56,53,7930946725,10005
+10000651,female,white american,high school,standard,completed,68,80,76,1641611806,10004
+10000652,female,multiracial,some college,standard,completed,85,86,98,8638094784,10003
+10000653,female,white american,associate's degree,standard,completed,65,70,74,9548830228,10007
+10000654,female,african american,some high school,standard,none,73,79,79,2860169901,10001
+10000655,female,african american,some college,standard,none,62,67,67,1947058474,10006
+10000656,male,asian american,associate's degree,free/reduced,none,77,67,64,6223663055,10003
+10000657,male,multiracial,some high school,standard,none,69,66,61,3105416289,10002
+10000658,female,multiracial,associate's degree,free/reduced,none,43,60,58,4657634912,10001
+10000659,male,multiracial,associate's degree,standard,none,90,87,85,8828827706,10006
+10000660,male,asian american,some college,free/reduced,none,74,77,73,7834078439,10000
+10000661,male,asian american,some high school,standard,none,73,66,63,1956477347,10005
+10000662,female,multiracial,some college,free/reduced,none,55,71,69,2580737969,10001
+10000663,female,asian american,high school,standard,none,65,69,67,2615473548,10005
+10000664,male,multiracial,associate's degree,standard,none,80,63,63,9711360654,10005
+10000665,female,asian american,some high school,free/reduced,completed,50,60,60,6036106165,10000
+10000666,female,asian american,some college,free/reduced,completed,63,73,71,2485936130,10004
+10000667,female,african american,bachelor's degree,free/reduced,none,77,85,87,7147195598,10007
+10000668,male,asian american,some college,standard,none,73,74,61,4844470557,10003
+10000669,male,multiracial,associate's degree,standard,completed,81,72,77,1493625059,10001
+10000670,female,asian american,high school,free/reduced,none,66,76,68,2361758583,10002
+10000671,male,multiracial,associate's degree,free/reduced,none,52,57,50,4341653594,10004
+10000672,female,asian american,some college,standard,none,69,78,76,3195472743,10000
+10000673,female,asian american,associate's degree,standard,completed,65,84,84,7505418438,10003
+10000674,female,multiracial,high school,standard,completed,69,77,78,4816919622,10000
+10000675,female,african american,some college,standard,completed,50,64,66,3610555694,10007
+10000676,female,native american,some college,standard,completed,73,78,76,1122999971,10005
+10000677,female,asian american,some high school,standard,completed,70,82,76,6566840457,10003
+10000678,male,multiracial,associate's degree,free/reduced,none,81,75,78,9464903529,10001
+10000679,male,multiracial,some college,free/reduced,none,63,61,60,7306257206,10007
+10000680,female,multiracial,high school,standard,none,67,72,74,8705924172,10006
+10000681,male,african american,high school,standard,none,60,68,60,3864793227,10001
+10000682,male,african american,high school,standard,none,62,55,54,8885920093,10007
+10000683,female,asian american,some high school,free/reduced,completed,29,40,44,1161238842,10005
+10000684,male,african american,some college,standard,completed,62,66,68,5905438080,10007
+10000685,female,native american,master's degree,standard,completed,94,99,100,9449682449,10006
+10000686,male,native american,some college,standard,completed,85,75,68,6143112118,10007
+10000687,male,multiracial,associate's degree,free/reduced,none,77,78,73,7424899052,10004
+10000688,male,white american,high school,free/reduced,none,53,58,44,8369099513,10003
+10000689,male,native american,some college,free/reduced,none,93,90,83,4992106673,10007
+10000690,female,asian american,associate's degree,standard,none,49,53,53,3712462008,10002
+10000691,female,native american,associate's degree,free/reduced,none,73,76,78,3936781436,10000
+10000692,female,asian american,bachelor's degree,free/reduced,completed,66,74,81,6865383997,10002
+10000693,female,multiracial,associate's degree,standard,none,77,77,73,9304141067,10001
+10000694,female,asian american,some high school,standard,none,49,63,56,1645832604,10005
+10000695,female,multiracial,some college,free/reduced,none,79,89,86,1525193846,10003
+10000696,female,asian american,associate's degree,standard,completed,75,82,90,6754398330,10002
+10000697,female,white american,bachelor's degree,standard,none,59,72,70,3177688638,10006
+10000698,female,multiracial,associate's degree,standard,completed,57,78,79,5273710636,10004
+10000699,male,asian american,high school,free/reduced,none,66,66,59,1207895691,10007
+10000700,female,native american,bachelor's degree,standard,completed,79,81,82,8682231649,10006
+10000701,female,african american,some high school,standard,none,57,67,72,9280962312,10005
+10000702,male,white american,bachelor's degree,standard,completed,87,84,87,8666150926,10007
+10000703,female,multiracial,some college,standard,none,63,64,67,5463885472,10006
+10000704,female,african american,some high school,free/reduced,completed,59,63,64,3280431482,10003
+10000705,male,white american,bachelor's degree,free/reduced,none,62,72,65,5718898121,10004
+10000706,male,multiracial,high school,standard,none,46,34,36,9534504406,10007
+10000707,male,asian american,some college,standard,none,66,59,52,1373503125,10007
+10000708,male,multiracial,high school,standard,none,89,87,79,7447824306,10001
+10000709,female,multiracial,associate's degree,free/reduced,completed,42,61,58,4876869905,10006
+10000710,male,asian american,some college,standard,completed,93,84,90,7927865738,10000
+10000711,female,native american,some high school,standard,completed,80,85,85,2880930953,10004
+10000712,female,multiracial,some college,standard,none,98,100,99,8355623905,10005
+10000713,male,multiracial,master's degree,standard,none,81,81,84,1992780184,10004
+10000714,female,african american,some high school,standard,completed,60,70,74,7451996723,10002
+10000715,female,african american,associate's degree,free/reduced,completed,76,94,87,8917278308,10002
+10000716,male,asian american,associate's degree,standard,completed,73,78,72,7309120722,10002
+10000717,female,asian american,associate's degree,standard,completed,96,96,99,1670041508,10000
+10000718,female,asian american,high school,standard,none,76,76,74,6038362242,10006
+10000719,male,native american,associate's degree,free/reduced,completed,91,73,80,2753578097,10002
+10000720,female,asian american,some college,free/reduced,none,62,72,70,1372494553,10001
+10000721,male,multiracial,some high school,free/reduced,completed,55,59,59,5464014969,10006
+10000722,female,african american,some high school,free/reduced,completed,74,90,88,3078486489,10001
+10000723,male,asian american,high school,standard,none,50,48,42,1734068070,10007
+10000724,male,african american,some college,standard,none,47,43,41,1295116834,10000
+10000725,male,native american,some college,standard,completed,81,74,71,2360617955,10005
+10000726,female,native american,associate's degree,standard,completed,65,75,77,7871858373,10003
+10000727,male,native american,some high school,standard,completed,68,51,57,8848708275,10003
+10000728,female,multiracial,high school,free/reduced,none,73,92,84,6588889968,10001
+10000729,male,asian american,some college,standard,none,53,39,37,8353004020,10003
+10000730,female,african american,associate's degree,free/reduced,completed,68,77,80,2884226057,10001
+10000731,male,white american,some high school,free/reduced,none,55,46,43,1784719092,10002
+10000732,female,asian american,some college,standard,completed,87,89,94,1815699269,10006
+10000733,male,multiracial,some high school,standard,none,55,47,44,9042727899,10007
+10000734,female,native american,some college,free/reduced,none,53,58,57,5844427506,10005
+10000735,male,asian american,master's degree,standard,none,67,57,59,5903627403,10007
+10000736,male,asian american,associate's degree,standard,none,92,79,84,4617641194,10002
+10000737,female,african american,some college,free/reduced,completed,53,66,73,7857715714,10004
+10000738,male,multiracial,associate's degree,standard,none,81,71,73,8480951794,10001
+10000739,male,asian american,high school,free/reduced,none,61,60,55,9864114548,10003
+10000740,male,multiracial,bachelor's degree,standard,none,80,73,72,6874425597,10003
+10000741,female,white american,associate's degree,free/reduced,none,37,57,56,6379234816,10005
+10000742,female,asian american,high school,standard,none,81,84,82,8332253667,10004
+10000743,female,asian american,associate's degree,standard,completed,59,73,72,1010351498,10004
+10000744,male,african american,some college,free/reduced,none,55,55,47,9062494093,10002
+10000745,male,multiracial,associate's degree,standard,none,72,79,74,2535391328,10002
+10000746,male,multiracial,high school,standard,none,69,75,71,7853589199,10004
+10000747,male,asian american,some college,standard,none,69,64,68,9874614936,10000
+10000748,female,asian american,bachelor's degree,free/reduced,none,50,60,59,3767327903,10002
+10000749,male,african american,some college,standard,completed,87,84,86,5729645881,10004
+10000750,male,multiracial,some high school,standard,completed,71,69,68,5683165127,10001
+10000751,male,native american,some college,standard,none,68,72,65,1952257598,10005
+10000752,male,asian american,master's degree,free/reduced,completed,79,77,75,7879776241,10004
+10000753,female,asian american,some high school,standard,completed,77,90,85,9395006756,10005
+10000754,male,asian american,associate's degree,free/reduced,none,58,55,53,6658192621,10003
+10000755,female,native american,associate's degree,standard,none,84,95,92,6997316212,10004
+10000756,male,multiracial,some college,standard,none,55,58,52,3776125273,10002
+10000757,male,native american,bachelor's degree,free/reduced,completed,70,68,72,3211449114,10006
+10000758,female,multiracial,some college,free/reduced,completed,52,59,65,7477378815,10000
+10000759,male,african american,some college,standard,completed,69,77,77,7875314130,10002
+10000760,female,asian american,high school,free/reduced,none,53,72,64,9253601178,10004
+10000761,female,multiracial,some high school,standard,none,48,58,54,4978222231,10004
+10000762,male,multiracial,some high school,standard,completed,78,81,86,8982621364,10007
+10000763,female,african american,high school,standard,none,62,62,63,1853086650,10000
+10000764,male,multiracial,some college,standard,none,60,63,59,2160726549,10006
+10000765,female,african american,high school,standard,none,74,72,72,7298914049,10002
+10000766,female,asian american,high school,standard,completed,58,75,77,7320719682,10001
+10000767,male,african american,high school,standard,completed,76,62,60,3336679933,10003
+10000768,female,multiracial,some high school,standard,none,68,71,75,1377524163,10000
+10000769,male,white american,some college,free/reduced,none,58,60,57,2604956655,10001
+10000770,male,african american,high school,standard,none,52,48,49,4601741579,10006
+10000771,male,multiracial,bachelor's degree,standard,none,75,73,74,4383247944,10006
+10000772,female,african american,some high school,free/reduced,completed,52,67,72,6705486095,10005
+10000773,female,asian american,bachelor's degree,free/reduced,none,62,78,79,4313393518,10005
+10000774,male,african american,some college,standard,none,66,65,60,3194808685,10006
+10000775,female,african american,some high school,free/reduced,none,49,58,55,6456511050,10002
+10000776,female,african american,high school,standard,none,66,72,70,3590260852,10006
+10000777,female,asian american,some college,free/reduced,none,35,44,43,2166819446,10006
+10000778,female,white american,some college,standard,completed,72,79,82,2567791754,10006
+10000779,male,native american,associate's degree,standard,completed,94,85,82,5590769722,10004
+10000780,female,multiracial,associate's degree,free/reduced,none,46,56,57,4905822224,10001
+10000781,female,african american,master's degree,standard,none,77,90,84,2034952080,10006
+10000782,female,african american,high school,free/reduced,completed,76,85,82,4550080802,10002
+10000783,female,asian american,associate's degree,standard,completed,52,59,62,5030190433,10006
+10000784,male,asian american,bachelor's degree,standard,completed,91,81,79,7041722605,10005
+10000785,female,african american,some high school,standard,completed,32,51,44,3779323318,10002
+10000786,female,native american,some high school,free/reduced,none,72,79,77,2170549276,10001
+10000787,female,african american,some college,standard,none,19,38,32,6180071570,10006
+10000788,male,asian american,associate's degree,free/reduced,none,68,65,61,6404906153,10000
+10000789,female,asian american,master's degree,free/reduced,none,52,65,61,4208092499,10006
+10000790,female,african american,high school,standard,none,48,62,60,9948129400,10006
+10000791,female,multiracial,some college,free/reduced,none,60,66,70,6434539682,10007
+10000792,male,multiracial,high school,free/reduced,none,66,74,69,9184665259,10007
+10000793,male,native american,some high school,standard,completed,89,84,77,6065670816,10004
+10000794,female,african american,high school,standard,none,42,52,51,9936271314,10000
+10000795,female,native american,associate's degree,free/reduced,completed,57,68,73,5148077833,10000
+10000796,male,multiracial,high school,standard,none,70,70,70,4419154226,10001
+10000797,female,native american,associate's degree,free/reduced,none,70,84,81,9151777469,10002
+10000798,male,native american,some college,standard,none,69,60,54,6182650932,10004
+10000799,female,asian american,associate's degree,standard,none,52,55,57,2213277184,10005
+10000800,male,asian american,some high school,standard,completed,67,73,68,9471397469,10007
+10000801,male,asian american,some high school,standard,completed,76,80,73,4447062641,10006
+10000802,female,native american,associate's degree,standard,none,87,94,95,5487265257,10005
+10000803,female,african american,some college,standard,none,82,85,87,7236863381,10002
+10000804,female,asian american,some college,standard,none,73,76,78,9207439866,10006
+10000805,male,white american,some college,free/reduced,none,75,81,74,4169462647,10006
+10000806,female,multiracial,some college,free/reduced,none,64,74,75,3983346024,10004
+10000807,female,native american,high school,free/reduced,none,41,45,40,3899987684,10003
+10000808,male,asian american,high school,standard,none,90,75,69,5409824888,10001
+10000809,male,african american,bachelor's degree,standard,none,59,54,51,9887298572,10001
+10000810,male,white american,some high school,standard,none,51,31,36,7888019831,10002
+10000811,male,white american,high school,free/reduced,none,45,47,49,5178710007,10007
+10000812,female,asian american,master's degree,standard,completed,54,64,67,6818382138,10007
+10000813,male,native american,some high school,standard,completed,87,84,76,1914440327,10004
+10000814,female,asian american,high school,standard,none,72,80,83,1806465654,10007
+10000815,male,african american,some high school,standard,completed,94,86,87,9308855102,10001
+10000816,female,white american,bachelor's degree,standard,none,45,59,64,9992866743,10006
+10000817,male,multiracial,bachelor's degree,free/reduced,completed,61,70,76,8045013473,10002
+10000818,female,african american,high school,free/reduced,none,60,72,68,6801365965,10003
+10000819,female,asian american,some high school,standard,none,77,91,88,4139595587,10005
+10000820,female,white american,some high school,standard,completed,85,90,92,1269062954,10007
+10000821,female,multiracial,bachelor's degree,free/reduced,none,78,90,93,8689946483,10001
+10000822,male,native american,some college,free/reduced,completed,49,52,51,9579631036,10007
+10000823,female,african american,high school,free/reduced,none,71,87,82,1030271179,10002
+10000824,female,asian american,some high school,free/reduced,none,48,58,52,5587762671,10005
+10000825,male,asian american,high school,standard,none,62,67,58,3807655722,10007
+10000826,female,asian american,associate's degree,free/reduced,completed,56,68,70,8439853011,10007
+10000827,female,asian american,some high school,standard,none,65,69,76,1947805409,10007
+10000828,female,multiracial,some high school,free/reduced,completed,69,86,81,1255741852,10002
+10000829,male,african american,some high school,standard,none,68,54,53,1687169169,10004
+10000830,female,white american,some college,free/reduced,none,61,60,57,1499553135,10001
+10000831,female,asian american,bachelor's degree,free/reduced,completed,74,86,89,4813940077,10005
+10000832,male,white american,bachelor's degree,standard,none,64,60,58,4241541037,10002
+10000833,female,african american,high school,standard,completed,77,82,89,5321695831,10005
+10000834,male,african american,some college,standard,none,58,50,45,3380297281,10005
+10000835,female,asian american,high school,standard,completed,60,64,74,3432537478,10007
+10000836,male,native american,high school,standard,none,73,64,57,2400368667,10001
+10000837,female,white american,high school,standard,completed,75,82,79,3876539794,10003
+10000838,male,african american,associate's degree,free/reduced,completed,58,57,53,8474578823,10001
+10000839,female,asian american,associate's degree,standard,none,66,77,73,4344779070,10003
+10000840,female,multiracial,high school,free/reduced,none,39,52,46,1763459704,10005
+10000841,male,asian american,some high school,standard,none,64,58,51,6064808789,10007
+10000842,female,african american,high school,free/reduced,completed,23,44,36,7356456957,10006
+10000843,male,african american,some college,free/reduced,completed,74,77,76,7542754875,10006
+10000844,female,multiracial,some high school,free/reduced,completed,40,65,64,4369129870,10001
+10000845,male,native american,master's degree,standard,none,90,85,84,5865502626,10006
+10000846,male,asian american,master's degree,standard,completed,91,85,85,6250731888,10002
+10000847,male,multiracial,high school,standard,none,64,54,50,9966117917,10006
+10000848,female,asian american,high school,standard,none,59,72,68,2213173089,10007
+10000849,male,multiracial,associate's degree,standard,none,80,75,69,4159414381,10004
+10000850,male,asian american,master's degree,standard,none,71,67,67,5724757554,10001
+10000851,female,white american,high school,standard,none,61,68,63,3891391759,10005
+10000852,female,native american,some college,standard,none,87,85,93,7056764423,10001
+10000853,male,native american,some high school,standard,none,82,67,61,1387559508,10005
+10000854,male,asian american,some high school,standard,none,62,64,55,9907817313,10002
+10000855,female,african american,bachelor's degree,standard,none,97,97,96,6793001070,10000
+10000856,male,african american,some college,free/reduced,none,75,68,65,2537466267,10007
+10000857,female,asian american,bachelor's degree,standard,none,65,79,81,2144949464,10004
+10000858,male,african american,high school,standard,completed,52,49,46,1187430410,10006
+10000859,male,asian american,associate's degree,free/reduced,none,87,73,72,5915373563,10002
+10000860,female,asian american,associate's degree,standard,none,53,62,53,4853896932,10000
+10000861,female,native american,master's degree,free/reduced,none,81,86,87,7051830356,10001
+10000862,male,multiracial,bachelor's degree,free/reduced,completed,39,42,38,6663843945,10006
+10000863,female,asian american,some college,standard,completed,71,71,80,8553996538,10002
+10000864,male,asian american,associate's degree,standard,none,97,93,91,6648987325,10004
+10000865,male,multiracial,some college,standard,completed,82,82,88,7745714907,10006
+10000866,male,asian american,high school,free/reduced,none,59,53,52,8041714704,10003
+10000867,male,african american,associate's degree,standard,none,61,42,41,7113609036,10003
+10000868,male,native american,associate's degree,free/reduced,completed,78,74,72,2823322046,10003
+10000869,male,asian american,associate's degree,free/reduced,none,49,51,51,1995538774,10002
+10000870,male,african american,high school,standard,none,59,58,47,8587617153,10002
+10000871,female,asian american,some college,standard,completed,70,72,76,5753654359,10000
+10000872,male,african american,associate's degree,standard,completed,82,84,78,7487598517,10003
+10000873,male,native american,associate's degree,free/reduced,none,90,90,82,3811961832,10001
+10000874,female,asian american,bachelor's degree,free/reduced,none,43,62,61,1522919930,10000
+10000875,male,asian american,some college,free/reduced,none,80,64,66,5508138324,10004
+10000876,male,multiracial,some college,standard,none,81,82,84,8961472965,10002
+10000877,male,asian american,some high school,standard,none,57,61,54,9956798418,10003
+10000878,female,multiracial,some high school,standard,none,59,72,80,5345490738,10000
+10000879,female,multiracial,associate's degree,standard,none,64,76,74,9313340297,10005
+10000880,male,asian american,bachelor's degree,standard,completed,63,64,66,7116279676,10000
+10000881,female,native american,bachelor's degree,standard,completed,71,70,70,9291243823,10006
+10000882,female,african american,high school,free/reduced,none,64,73,71,1684742238,10004
+10000883,male,multiracial,bachelor's degree,free/reduced,none,55,46,44,4766664537,10000
+10000884,female,native american,associate's degree,standard,none,51,51,54,2086218630,10003
+10000885,female,asian american,associate's degree,standard,completed,62,76,80,2839759845,10006
+10000886,female,native american,associate's degree,standard,completed,93,100,95,8915130467,10001
+10000887,male,asian american,high school,free/reduced,none,54,72,59,4111115524,10006
+10000888,female,multiracial,some college,free/reduced,none,69,65,74,8754618208,10002
+10000889,male,multiracial,high school,free/reduced,none,44,51,48,3744518663,10004
+10000890,female,native american,some college,standard,completed,86,85,91,5543654111,10005
+10000891,female,native american,associate's degree,standard,none,85,92,85,9005811107,10006
+10000892,female,white american,master's degree,free/reduced,none,50,67,73,5353030907,10004
+10000893,male,multiracial,some high school,standard,completed,88,74,75,2944418950,10007
+10000894,female,native american,associate's degree,standard,none,59,62,69,9308058089,10005
+10000895,female,native american,some high school,free/reduced,none,32,34,38,5495038178,10005
+10000896,male,african american,high school,free/reduced,none,36,29,27,4567524339,10002
+10000897,female,african american,some high school,free/reduced,completed,63,78,79,4626080913,10003
+10000898,male,multiracial,associate's degree,standard,completed,67,54,63,8271327422,10006
+10000899,female,multiracial,some high school,standard,completed,65,78,82,8182636492,10004
+10000900,male,multiracial,master's degree,standard,none,85,84,89,5357625858,10004
+10000901,female,asian american,master's degree,standard,none,73,78,74,4116922001,10007
+10000902,female,white american,high school,free/reduced,completed,34,48,41,4077938161,10001
+10000903,female,multiracial,bachelor's degree,free/reduced,completed,93,100,100,8784366437,10004
+10000904,female,multiracial,some high school,free/reduced,none,67,84,84,9206327614,10004
+10000905,male,multiracial,some college,standard,none,88,77,77,1480785141,10001
+10000906,male,african american,high school,standard,none,57,48,51,1713255089,10006
+10000907,female,multiracial,some college,standard,completed,79,84,91,4829386610,10000
+10000908,female,asian american,bachelor's degree,free/reduced,none,67,75,72,7497203610,10003
+10000909,male,native american,bachelor's degree,standard,completed,70,64,70,2352026608,10006
+10000910,male,multiracial,bachelor's degree,free/reduced,none,50,42,48,4184492446,10002
+10000911,female,white american,some college,standard,none,69,84,82,2586271805,10003
+10000912,female,asian american,bachelor's degree,standard,completed,52,61,66,9866429835,10002
+10000913,female,asian american,bachelor's degree,free/reduced,completed,47,62,66,8075179267,10004
+10000914,female,african american,associate's degree,free/reduced,none,46,61,55,7650052795,10001
+10000915,female,native american,some college,standard,none,68,70,66,5178213446,10001
+10000916,male,native american,bachelor's degree,standard,completed,100,100,100,8226712821,10005
+10000917,female,asian american,high school,standard,none,44,61,52,9932169787,10005
+10000918,female,asian american,associate's degree,standard,completed,57,77,80,9695108207,10000
+10000919,male,african american,some college,standard,completed,91,96,91,4989979665,10000
+10000920,male,multiracial,high school,free/reduced,none,69,70,67,1883627476,10005
+10000921,female,asian american,high school,free/reduced,none,35,53,46,8970685018,10004
+10000922,male,multiracial,high school,standard,none,72,66,66,8156703577,10001
+10000923,female,african american,associate's degree,free/reduced,none,54,65,65,5991244707,10000
+10000924,male,multiracial,high school,free/reduced,none,74,70,69,9530282330,10006
+10000925,male,native american,some high school,standard,completed,74,64,60,2157512705,10002
+10000926,male,native american,associate's degree,free/reduced,none,64,56,52,8716904890,10003
+10000927,female,multiracial,high school,free/reduced,completed,65,61,71,7622976664,10001
+10000928,male,native american,associate's degree,free/reduced,completed,46,43,44,7984337144,10007
+10000929,female,asian american,some high school,free/reduced,none,48,56,51,6367674769,10007
+10000930,male,asian american,some college,free/reduced,completed,67,74,70,5452023914,10006
+10000931,male,multiracial,some college,free/reduced,none,62,57,62,4834627533,10006
+10000932,male,multiracial,associate's degree,free/reduced,completed,61,71,73,4438094043,10005
+10000933,male,asian american,bachelor's degree,free/reduced,completed,70,75,74,2396189776,10003
+10000934,male,asian american,associate's degree,standard,completed,98,87,90,8366838648,10004
+10000935,male,multiracial,some college,free/reduced,none,70,63,58,8057816900,10007
+10000936,male,white american,associate's degree,standard,none,67,57,53,9944685918,10005
+10000937,female,native american,high school,free/reduced,none,57,58,57,4183987901,10006
+10000938,male,multiracial,some college,standard,completed,85,81,85,9620681333,10002
+10000939,male,multiracial,some high school,standard,completed,77,68,69,2202702507,10007
+10000940,male,asian american,master's degree,free/reduced,completed,72,66,72,4356513021,10004
+10000941,female,multiracial,master's degree,standard,none,78,91,96,9680682476,10002
+10000942,male,asian american,high school,standard,none,81,66,64,8606430794,10002
+10000943,male,white american,some high school,free/reduced,completed,61,62,61,7865262878,10001
+10000944,female,african american,high school,standard,none,58,68,61,4858284511,10002
+10000945,female,asian american,associate's degree,standard,none,54,61,58,9404397497,10000
+10000946,male,african american,high school,standard,none,82,82,80,9266285625,10000
+10000947,female,multiracial,some college,free/reduced,none,49,58,60,8949003875,10003
+10000948,male,african american,some high school,free/reduced,completed,49,50,52,9106510178,10003
+10000949,female,native american,high school,free/reduced,completed,57,75,73,3231054806,10000
+10000950,male,native american,high school,standard,none,94,73,71,6441096567,10003
+10000951,female,multiracial,some college,standard,completed,75,77,83,1259038015,10005
+10000952,female,native american,some high school,free/reduced,none,74,74,72,9924031990,10004
+10000953,male,asian american,high school,standard,completed,58,52,54,2475216969,10004
+10000954,female,asian american,some college,standard,none,62,69,69,2055666615,10001
+10000955,male,native american,associate's degree,standard,none,72,57,62,8909454108,10006
+10000956,male,asian american,some college,standard,none,84,87,81,9666271792,10001
+10000957,female,multiracial,master's degree,standard,none,92,100,100,4659401779,10000
+10000958,female,multiracial,high school,standard,none,45,63,59,7810688232,10002
+10000959,male,asian american,high school,standard,none,75,81,71,8959789935,10005
+10000960,female,white american,some college,standard,none,56,58,64,5257256281,10005
+10000961,female,multiracial,some high school,free/reduced,none,48,54,53,2769866641,10006
+10000962,female,native american,associate's degree,standard,none,100,100,100,9607792921,10003
+10000963,female,asian american,some high school,free/reduced,completed,65,76,75,6295782677,10002
+10000964,male,multiracial,some college,standard,none,72,57,58,2227154204,10007
+10000965,female,multiracial,some college,standard,none,62,70,72,4758064454,10007
+10000966,male,white american,some high school,standard,completed,66,68,64,5733752231,10003
+10000967,male,asian american,some college,standard,none,63,63,60,7318310013,10003
+10000968,female,native american,associate's degree,standard,none,68,76,67,5162405464,10000
+10000969,female,african american,bachelor's degree,standard,none,75,84,80,3265392744,10000
+10000970,female,multiracial,bachelor's degree,standard,none,89,100,100,9124095315,10006
+10000971,male,asian american,some high school,standard,completed,78,72,69,3249636852,10007
+10000972,female,white american,high school,free/reduced,completed,53,50,60,1980611662,10004
+10000973,female,multiracial,some college,free/reduced,none,49,65,61,2123526144,10003
+10000974,female,white american,some college,standard,none,54,63,67,1291053888,10003
+10000975,female,asian american,some college,standard,completed,64,82,77,4501287629,10003
+10000976,male,african american,some college,free/reduced,completed,60,62,60,7667459465,10007
+10000977,male,asian american,associate's degree,standard,none,62,65,58,7567220580,10005
+10000978,male,multiracial,high school,standard,completed,55,41,48,9373312929,10001
+10000979,female,asian american,associate's degree,standard,none,91,95,94,5638367603,10004
+10000980,female,african american,high school,free/reduced,none,8,24,23,2721189750,10004
+10000981,male,multiracial,some high school,standard,none,81,78,78,5186235589,10007
+10000982,male,african american,some high school,standard,completed,79,85,86,6196105407,10003
+10000983,female,white american,some college,standard,completed,78,87,91,8508850806,10005
+10000984,female,asian american,some high school,standard,none,74,75,82,7924108499,10000
+10000985,male,white american,high school,standard,none,57,51,54,9051761721,10003
+10000986,female,asian american,associate's degree,standard,none,40,59,51,8260773208,10004
+10000987,male,native american,some high school,standard,completed,81,75,76,6088089532,10003
+10000988,female,white american,some high school,free/reduced,none,44,45,45,9051034236,10002
+10000989,female,multiracial,some college,free/reduced,completed,67,86,83,8189763355,10002
+10000990,male,native american,high school,free/reduced,completed,86,81,75,9662325426,10002
+10000991,female,african american,some high school,standard,completed,65,82,78,2964349539,10001
+10000992,female,multiracial,associate's degree,free/reduced,none,55,76,76,6079978027,10001
+10000993,female,multiracial,bachelor's degree,free/reduced,none,62,72,74,1238166012,10002
+10000994,male,white american,high school,standard,none,63,63,62,7975344635,10000
+10000995,female,native american,master's degree,standard,completed,88,99,95,3584734219,10001
+10000996,male,asian american,high school,free/reduced,none,62,55,55,6370831014,10007
+10000997,female,asian american,high school,free/reduced,completed,59,71,65,6877746789,10002
+10000998,female,multiracial,some college,standard,completed,68,78,77,4287664567,10000
+10000999,female,multiracial,some college,free/reduced,none,77,86,86,7407691614,10003
