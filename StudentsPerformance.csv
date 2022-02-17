@@ -34,7 +34,7 @@ student_id,gender,race/ethnicity,parental level of education,LUNCH,test preparat
 10000032,female,native american,master's degree,free/reduced,none,56,72,65,2283072652,10000
 10000033,male,multiracial,some college,standard,none,40,42,38,8849089254,10006
 10000034,male,native american,some college,standard,none,97,87,82,8235898431,10006
-10000035,male,native american,associate's degree,standard,completed,81,81,79,7823959393,10000
+10000035,male,,associate's degree,standard,completed,81,81,79,7823959393,10000
 10000036,female,multiracial,associate's degree,standard,none,74,81,83,4903738417,10006
 10000037,female,multiracial,some high school,free/reduced,none,50,64,59,7694815401,10006
 10000038,female,multiracial,associate's degree,free/reduced,completed,75,90,88,9874532034,10003
@@ -45,7 +45,7 @@ student_id,gender,race/ethnicity,parental level of education,LUNCH,test preparat
 10000043,male,african american,some college,free/reduced,completed,59,65,66,3465833694,10007
 10000044,female,native american,associate's degree,free/reduced,none,50,56,54,6738912204,10002
 10000045,male,african american,associate's degree,standard,none,65,54,57,3766140824,10000
-10000046,female,white american,associate's degree,standard,completed,55,65,62,5458109986,10002
+10000046,female,,associate's degree,standard,completed,55,65,62,5458109986,10002
 10000047,female,asian american,high school,standard,none,66,71,76,4067462238,10003
 10000048,female,multiracial,associate's degree,free/reduced,completed,57,74,76,1100818825,10000
 10000049,male,asian american,high school,standard,completed,82,84,82,6906826798,10006
@@ -57,8 +57,8 @@ student_id,gender,race/ethnicity,parental level of education,LUNCH,test preparat
 10000055,female,asian american,high school,free/reduced,none,33,41,43,5525808786,10005
 10000056,female,native american,associate's degree,standard,completed,82,85,86,4289559799,10000
 10000057,male,multiracial,associate's degree,standard,none,52,55,49,5216597798,10002
-10000058,male,multiracial,some college,standard,completed,58,59,58,3236309692,10001
-10000059,female,asian american,some high school,free/reduced,none,0,17,10,5003701152,10001
+10000058,male,,some college,standard,completed,58,59,58,3236309692,10001
+10000059,female,,some high school,free/reduced,none,0,17,10,5003701152,10001
 10000060,male,native american,bachelor's degree,free/reduced,completed,79,74,72,4005442361,10005
 10000061,male,white american,some high school,free/reduced,none,39,39,34,3719727071,10003
 10000062,male,white american,associate's degree,free/reduced,none,62,61,55,9831056355,10001
@@ -536,7 +536,7 @@ student_id,gender,race/ethnicity,parental level of education,LUNCH,test preparat
 10000534,male,african american,high school,standard,completed,73,69,68,6506712904,10000
 10000535,female,asian american,bachelor's degree,free/reduced,completed,66,83,83,3222218474,10006
 10000536,male,asian american,associate's degree,standard,completed,51,60,58,2077439895,10002
-10000537,female,multiracial,high school,standard,none,51,66,62,8603443762,10001
+10000537,female,,high school,standard,none,51,66,62,8603443762,10001
 10000538,male,native american,bachelor's degree,standard,completed,85,66,71,8385804027,10000
 10000539,male,white american,associate's degree,standard,completed,97,92,86,1782475897,10001
 10000540,male,asian american,high school,standard,completed,75,69,68,3046170456,10000
@@ -631,7 +631,7 @@ student_id,gender,race/ethnicity,parental level of education,LUNCH,test preparat
 10000629,female,asian american,some high school,standard,completed,44,51,55,9072519670,10007
 10000630,male,multiracial,some college,standard,none,67,64,70,7795034007,10002
 10000631,male,african american,high school,standard,none,79,60,65,5785488866,10003
-10000632,female,african american,bachelor's degree,standard,completed,66,74,81,2014064471,10004
+10000632,female,,bachelor's degree,standard,completed,66,74,81,2014064471,10004
 10000633,female,asian american,high school,standard,none,75,88,85,1668463811,10004
 10000634,male,multiracial,some high school,standard,none,84,84,80,1793457874,10004
 10000635,male,white american,high school,standard,none,71,74,64,4263657119,10006
@@ -649,7 +649,7 @@ student_id,gender,race/ethnicity,parental level of education,LUNCH,test preparat
 10000647,female,native american,high school,free/reduced,none,64,62,68,2311390649,10004
 10000648,female,african american,high school,standard,none,50,53,55,7660481059,10003
 10000649,female,multiracial,some college,standard,completed,69,79,81,2527738236,10002
-10000650,male,asian american,some high school,free/reduced,completed,51,56,53,7930946725,10005
+10000650,male,,some high school,free/reduced,completed,51,56,53,7930946725,10005
 10000651,female,white american,high school,standard,completed,68,80,76,1641611806,10004
 10000652,female,multiracial,some college,standard,completed,85,86,98,8638094784,10003
 10000653,female,white american,associate's degree,standard,completed,65,70,74,9548830228,10007
